@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'PFDinDisplayProLightWebfont';
-  src: url("../fonts/PFDinDisplayPro-Light.woff") format("woff");
+  src: url("../bsavarin.github.io/dist/fonts/PFDinDisplayPro-Light.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-variant: normal; }
 @font-face {
   font-family: 'PTSansRegularWebfont';
-  src: url("../fonts/PTSans-regular.woff") format("woff");
+  src: url("../bsavarin.github.io/dist/fonts/PTSans-regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-variant: normal; }
